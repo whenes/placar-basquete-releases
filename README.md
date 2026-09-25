@@ -81,4 +81,12 @@ Cada versão nova é publicada em [Releases](https://github.com/whenes/placar-ba
 
 ## Licença
 
-O Placar Esportivo é gratuito. Escolas, clubes e organizadores podem instalar em quantos computadores quiserem e usar em aulas, jogos e eventos, inclusive com ingresso pago. Não é permitido vender o programa nem distribuir uma versão modificada. O programa não traz garantia. O texto completo está em [LICENSE.txt](LICENSE.txt) e aparece também no instalador.
+| Quem | Como usa |
+|---|---|
+| Escolas públicas (municipais, estaduais e federais, de qualquer nível) | **Grátis**, inclusive em eventos que a escola organiza, mesmo com ingresso |
+| Programas públicos de esporte e projetos sociais sem fins lucrativos | **Grátis** em atividades sem cobrança de ingresso ou inscrição |
+| Escolas particulares, clubes, academias, escolinhas, ligas, organizadores de eventos e empresas | **Licença Comercial** (paga) |
+
+Qualquer pessoa pode instalar e testar por até 30 dias, sem usar em jogo com público. Para contratar a Licença Comercial, [abra um pedido aqui](https://github.com/whenes/placar-basquete-releases/issues/new?title=Licen%C3%A7a%20Comercial) com o nome da organização e o uso pretendido.
+
+O texto completo está em [LICENSE.txt](LICENSE.txt) e aparece também no instalador.
