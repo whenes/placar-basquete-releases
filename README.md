@@ -78,3 +78,7 @@ A duração dos tempos é ajustável de 1 a 60 min, para aulas e jogos mais curt
 ## Versões
 
 Cada versão nova é publicada em [Releases](https://github.com/whenes/placar-basquete-releases/releases). As 5 mais recentes ficam disponíveis para download.
+
+## Licença
+
+O Placar Esportivo é gratuito. Escolas, clubes e organizadores podem instalar em quantos computadores quiserem e usar em aulas, jogos e eventos, inclusive com ingresso pago. Não é permitido vender o programa nem distribuir uma versão modificada. O programa não traz garantia. O texto completo está em [LICENSE.txt](LICENSE.txt) e aparece também no instalador.
