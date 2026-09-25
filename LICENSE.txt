@@ -1,22 +1,51 @@
-LICENÇA DE USO GRATUITO — PLACAR ESPORTIVO
+LICENÇA DE USO — PLACAR ESPORTIVO
 
-Versão 1.0, setembro de 2026.
+Versão 2.0, setembro de 2026.
 
-Esta licença é um contrato entre Whenes Oliveira ("Licenciante") e a pessoa, escola ou organização que instala ou usa o Placar Esportivo ("Usuário"). O Placar Esportivo compreende o programa, o instalador, a documentação e as atualizações publicadas pelo Licenciante ("Software"). Ao instalar ou usar o Software, o Usuário concorda com os termos abaixo. Quem não concordar não deve instalar nem usar o Software.
+Esta licença é um contrato entre Whenes Oliveira ("Licenciante") e a pessoa, instituição ou organização que instala ou usa o Placar Esportivo ("Usuário"). O Placar Esportivo compreende o programa, o instalador, a documentação e as atualizações publicadas pelo Licenciante ("Software"). Ao instalar ou usar o Software, o Usuário concorda com os termos abaixo. Quem não concordar não deve instalar nem usar o Software.
 
-
-1. LICENÇA DE USO
-
-1.1. O Licenciante concede ao Usuário uma licença gratuita, não exclusiva, intransferível e por prazo indeterminado para instalar e usar o Software.
-
-1.2. O Usuário pode instalar o Software em quantos computadores quiser e usá-lo em aulas, treinos, jogos, campeonatos e eventos, inclusive em eventos com cobrança de ingresso ou inscrição.
-
-1.3. O Usuário pode copiar e repassar o instalador original, sem nenhuma alteração e sem cobrar por ele. Sempre que possível, a indicação deve ser para a página oficial de download: https://github.com/whenes/placar-basquete-releases
+O Software é gratuito para escolas públicas e para o esporte público e social, nas condições do item 1. Qualquer outro uso exige a Licença Comercial, que é paga, conforme o item 2.
 
 
-2. O QUE NÃO É PERMITIDO
+1. USO GRATUITO
 
-O Usuário não pode, salvo autorização por escrito do Licenciante:
+1.1. Podem usar o Software gratuitamente:
+
+a) instituições públicas de ensino, de qualquer nível (federais, estaduais, distritais e municipais), em aulas, treinos, jogos, campeonatos e eventos que elas mesmas organizem, inclusive quando houver cobrança de ingresso ou inscrição;
+
+b) órgãos e programas públicos de esporte e lazer, como secretarias e fundações municipais ou estaduais, em atividades que eles mesmos organizem e sem cobrança de ingresso ou inscrição;
+
+c) entidades sem fins lucrativos com finalidade social, como ONGs, associações comunitárias e projetos sociais, em atividades que elas mesmas organizem e sem cobrança de ingresso ou inscrição.
+
+1.2. Qualquer pessoa ou organização pode instalar e testar o Software gratuitamente por até 30 (trinta) dias, apenas para avaliação e sem uso em jogo ou evento com público.
+
+1.3. Nas hipóteses do item 1.1, o Usuário pode instalar o Software em quantos computadores precisar.
+
+1.4. O uso gratuito não vale quando o Usuário do item 1.1 cede, empresta ou opera o Software para evento organizado por terceiros. Nesse caso, o organizador do evento precisa da Licença Comercial.
+
+
+2. LICENÇA COMERCIAL (PAGA)
+
+2.1. Precisa da Licença Comercial todo uso que não esteja no item 1, por exemplo:
+
+a) escolas particulares, faculdades particulares e sistemas de ensino privados;
+b) clubes, associações esportivas, academias e escolinhas de esporte;
+c) ligas, federações, confederações e organizadores de campeonatos, torneios ou eventos;
+d) empresas, inclusive em eventos internos e corporativos;
+e) órgãos públicos e entidades sem fins lucrativos, quando houver cobrança de ingresso ou inscrição.
+
+2.2. Preço, prazo, número de computadores e demais condições da Licença Comercial são combinados diretamente com o Licenciante. A Licença Comercial só vale depois de confirmada por escrito pelo Licenciante.
+
+2.3. Para contratar, fale com o Licenciante pela página oficial do Software: https://github.com/whenes/placar-basquete-releases
+
+
+3. REGRAS QUE VALEM PARA TODOS
+
+3.1. A licença, gratuita ou comercial, é não exclusiva e intransferível.
+
+3.2. O instalador original, sem nenhuma alteração, pode ser copiado e repassado sem cobrança. Quem o recebe fica sujeito a esta licença, inclusive quanto à necessidade de Licença Comercial. Sempre que possível, a indicação deve ser para a página oficial de download.
+
+3.3. Salvo autorização por escrito do Licenciante, não é permitido:
 
 a) vender, alugar ou sublicenciar o Software, nem cobrar pelo Software em si, isoladamente ou junto de outro produto ou serviço;
 b) distribuir versão modificada do Software ou do instalador;
@@ -25,49 +54,49 @@ d) remover ou alterar avisos de autoria, de licença ou de direitos autorais;
 e) usar o nome "Placar Esportivo" ou o nome do Licenciante para sugerir parceria, patrocínio ou endosso que não exista.
 
 
-3. PROPRIEDADE INTELECTUAL
+4. PROPRIEDADE INTELECTUAL
 
 O Software é protegido pela Lei nº 9.609/1998 (Lei do Software) e pela Lei nº 9.610/1998 (Lei de Direitos Autorais). A licença concede apenas o direito de uso descrito acima. Nenhum direito de propriedade sobre o Software é transferido ao Usuário. Todos os direitos não concedidos expressamente ficam reservados ao Licenciante.
 
 
-4. COMPONENTES DE TERCEIROS
+5. COMPONENTES DE TERCEIROS
 
 O Software inclui componentes de código aberto, como Electron, Chromium e Angular, que continuam regidos pelas próprias licenças. Os avisos e as licenças desses componentes acompanham a instalação, na pasta do programa (arquivos LICENSE.electron.txt e LICENSES.chromium.html).
 
 
-5. PRIVACIDADE
+6. PRIVACIDADE
 
 O Software funciona sem internet. Ele não coleta, não envia e não compartilha dados do Usuário. O estado do jogo (nomes e cores dos times, placar e configurações) fica gravado apenas no próprio computador, para retomar a partida caso o programa seja fechado.
 
 
-6. AUSÊNCIA DE GARANTIA
+7. AUSÊNCIA DE GARANTIA
 
-O Software é fornecido gratuitamente, "no estado em que se encontra" e sem garantia de qualquer tipo, expressa ou implícita. Isso inclui garantias de funcionamento ininterrupto, de ausência de erros, de precisão do relógio e da contagem e de adequação a uma finalidade específica. O Licenciante não garante que o Software atenda às regras oficiais de nenhuma federação ou competição.
+O Software é fornecido "no estado em que se encontra" e sem garantia de qualquer tipo, expressa ou implícita. Isso inclui garantias de funcionamento ininterrupto, de ausência de erros, de precisão do relógio e da contagem e de adequação a uma finalidade específica. O Licenciante não garante que o Software atenda às regras oficiais de nenhuma federação ou competição. Condições diferentes de garantia e suporte só valem se previstas por escrito na Licença Comercial.
 
 O Usuário é responsável por conferir o placar e o tempo durante o uso e por manter um meio alternativo de marcação quando o resultado do jogo tiver importância.
 
 
-7. LIMITAÇÃO DE RESPONSABILIDADE
+8. LIMITAÇÃO DE RESPONSABILIDADE
 
 Na extensão máxima permitida pela lei, o Licenciante não responde por danos diretos, indiretos, incidentais ou consequentes decorrentes do uso ou da impossibilidade de uso do Software. Isso inclui falha, travamento ou erro de marcação durante uma partida, resultado de jogo, decisão de arbitragem, perda de dados e prejuízo financeiro, mesmo quando o Licenciante tiver sido avisado da possibilidade desses danos.
 
 
-8. ATUALIZAÇÕES E ENCERRAMENTO
+9. ATUALIZAÇÕES E ENCERRAMENTO
 
-8.1. O Licenciante pode publicar novas versões, alterar funcionalidades ou deixar de distribuir o Software a qualquer tempo, sem obrigação de oferecer suporte ou atualizações.
+9.1. O Licenciante pode publicar novas versões, alterar funcionalidades ou deixar de distribuir o Software a qualquer tempo. Obrigações de suporte ou atualização só existem se previstas por escrito na Licença Comercial.
 
-8.2. Novas versões podem vir acompanhadas de nova versão desta licença, que vale para a versão do Software com que foi distribuída.
+9.2. Novas versões podem vir acompanhadas de nova versão desta licença, que vale para a versão do Software com que foi distribuída.
 
-8.3. A licença termina automaticamente se o Usuário descumprir qualquer um destes termos. Nesse caso, o Usuário deve desinstalar o Software e apagar suas cópias.
+9.3. A licença termina automaticamente se o Usuário descumprir qualquer um destes termos, inclusive se usar o Software sem Licença Comercial nos casos em que ela é exigida. Nesse caso, o Usuário deve desinstalar o Software e apagar suas cópias, sem prejuízo da cobrança pelo uso já feito.
 
 
-9. LEI APLICÁVEL E FORO
+10. LEI APLICÁVEL E FORO
 
 Esta licença é regida pelas leis da República Federativa do Brasil. Fica eleito o foro da comarca do domicílio do Licenciante para resolver qualquer questão decorrente desta licença, ressalvados os casos em que a lei assegure ao Usuário o direito de demandar em outro foro.
 
 
-10. CONTATO
+11. CONTATO
 
-Dúvidas sobre esta licença e pedidos de autorização podem ser enviados pela página oficial do Software: https://github.com/whenes/placar-basquete-releases
+Dúvidas sobre esta licença, pedidos de autorização e contratação da Licença Comercial: https://github.com/whenes/placar-basquete-releases
 
 Placar Esportivo — Copyright (c) 2026 Whenes Oliveira. Todos os direitos reservados.
